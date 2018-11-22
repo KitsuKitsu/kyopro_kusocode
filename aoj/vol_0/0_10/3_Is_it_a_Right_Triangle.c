@@ -14,6 +14,7 @@ void sort(int *num){
         }
     }
 }
+
 int main()
 {
     int n;
